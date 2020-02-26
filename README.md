@@ -10,7 +10,9 @@
 - Mental Health Disorders from: https://github.com/Botafogo1894/Project2/blob/master/mental_disorder_substance_use.csv
 
 ## EDA and Data Visualizations:
-- Alcohol Interactions and scatterplots
+- Alcohol Interactions Scatterplots
 
 ![Alcohol Plots1](sns_regplots1.png)
 ![Alcohol Plots2](sns_regplots2.png)
+
+- 
