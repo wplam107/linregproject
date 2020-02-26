@@ -11,8 +11,7 @@
 
 ## EDA and Data Visualizations:
 - Alcohol Interactions Scatterplots
-
 ![Alcohol Plots1](sns_regplots1.png)
 ![Alcohol Plots2](sns_regplots2.png)
-
-- 
+- World Suicide Rates (mean over 2005-2016)
+![World Suicide Rates](world_sr.png)
