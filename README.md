@@ -3,7 +3,7 @@
 - Wayne Lam
 - Omar Hussain
 
-## Notebook: RegressionProject.ipynb
+## Notebook: ![RegressionProject.ipynb](RegressionProject.ipynb)
 
 ## Data Sources:
 - Suicide rates by country and year from: http://ghdx.healthdata.org/gbd-results-tool
