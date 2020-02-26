@@ -8,6 +8,7 @@
 - UN WHR from Kaggle by user: Alcides Oxa
 - Capitals and lat,long from: https://www.jasom.net/list-of-capital-cities-with-latitude-and-longitude/
 - Mental Health Disorders from: https://github.com/Botafogo1894/Project2/blob/master/mental_disorder_substance_use.csv
+- Vector data for countries from: https://www.naturalearthdata.com/downloads/110m-cultural-vectors/
 
 ## EDA and Data Visualizations:
 - Alcohol Interactions Scatterplots
