@@ -22,4 +22,11 @@
 
 ## Feature Engineering:
 - Log GDP/Capita (already in UN WHR) and Log Suicide Rate
-- 
+- Feature Interactions with R^2 > 0.1 (13 out of 24 are alcohol dependency related)
+
+## Feature Selection and Model Selection:
+- Wrapper Method (Recursive Feature Selection) to select features
+- Embedded Method (Lasso Regression) to select features
+- GridSearch for hyperparameter tuning for regularized regressions
+- Ridge Regression generally had the highest R^2 score and lowest RMSE: 0.628, 4.211 respectively with mean 10.459, std 7.274
+
