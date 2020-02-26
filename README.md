@@ -16,3 +16,7 @@
 ![Alcohol Plots2](sns_regplots2.png)
 - World Suicide Rates (mean over 2005-2016)
 ![World Suicide Rates](world_sr.png)
+
+## Feature Engineering:
+- Log GDP/Capita (already in UN WHR) and Log Suicide Rate
+- 
