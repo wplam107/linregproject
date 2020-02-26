@@ -1,3 +1,5 @@
 # Final Project for Linear Regression
-Contributors: Wayne Lam, Omar Hussain
+## Contributors:
+- Wayne Lam
+- Omar Hussain
 
