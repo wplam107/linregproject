@@ -11,4 +11,5 @@
 
 ## EDA and Data Visualizations:
 - Alcohol Interactions and scatterplots
-[plot row 1](sns_regplots1.png)
+sns_regplots1.png
+![plot row 1](sns_regplots1.png)
