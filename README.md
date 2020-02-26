@@ -11,9 +11,12 @@
 - Vector data for countries from: https://www.naturalearthdata.com/downloads/110m-cultural-vectors/
 
 ## EDA and Data Visualizations:
-- Alcohol Interactions Scatterplots
+- Relevent Features: Alcohol Interactions Scatterplots
 ![Alcohol Plots1](sns_regplots1.png)
 ![Alcohol Plots2](sns_regplots2.png)
+- Less Relevent Features: Certain Happiness Metrics
+![Suicide Rate vs. Life Ladder](sr_ll.png)
+![Suicide Rate vs. GDP/Capita](sr_gdp.png)
 - World Suicide Rates (mean over 2005-2016)
 ![World Suicide Rates](world_sr.png)
 
