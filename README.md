@@ -3,6 +3,8 @@
 - Wayne Lam
 - Omar Hussain
 
+## Notebook: RegressionProject.ipynb
+
 ## Data Sources:
 - Suicide rates by country and year from: http://ghdx.healthdata.org/gbd-results-tool
 - UN WHR from Kaggle by user: Alcides Oxa
